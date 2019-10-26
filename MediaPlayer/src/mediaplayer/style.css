@@ -1,0 +1,62 @@
+.button {
+    -fx-background-color: transparent;
+}
+#button.hover{
+    -fx-background-color: #006699
+}
+
+#openbtn {
+    -fx-background-image: url("../images/openFile.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#playbtn {
+    -fx-background-image: url("../images/play.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#pausebtn {
+    -fx-background-image: url("../images/pause.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#stopbtn {
+    -fx-background-image: url("../images/stop.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#slowbtn {
+    -fx-background-image: url("../images/slow.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#slowerbtn {
+    -fx-background-image: url("../images/slow.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#fastbtn {
+    -fx-background-image: url("../images/fast.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#fasterbtn {
+    -fx-background-image: url("../images/fast.png");
+    -fx-background-size: 30 30;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#exitbtn {
+    -fx-background-image: url("../images/exit.png");
+    -fx-background-size: 25 25;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
